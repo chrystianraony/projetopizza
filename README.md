@@ -1,4 +1,4 @@
 Meu primeiro sistema no git
 
 
-alteraçao do sistema
+Alterado e Atualizado Diariamente.
